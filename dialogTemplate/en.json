@@ -1,0 +1,7 @@
+{
+    "skill": "Lm_LightControl_FHEM",
+    "icon": "time",
+    "description": "Steuert das licht ueber fhem",
+    "slotTypes": [],
+    "intents": []
+}
